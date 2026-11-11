@@ -130,7 +130,7 @@ function App() {
             <span className="art-caption">Portrait<br /><strong>01 / 01</strong></span>
           </div>
           <div className="profile-copy">
-            <p className="kicker">Web, mobile & game developer · Dasmariñas, PH</p>
+            <p className="kicker">Web and Mobile Developer · Dasmariñas, PH</p>
             <h1>Frederick Allen<br /><span>Migano</span></h1>
             <p className="profile-lede">I&apos;m a 4th year college student building web and mobile applications with care, curiosity, and a practical approach to technology.</p>
             <p className="profile-lede">These days, I&apos;m focused on exploring new technologies, working on useful projects, and turning ideas into things people enjoy using.</p>
